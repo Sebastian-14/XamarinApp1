@@ -11,13 +11,14 @@ namespace XamarinApp1
             InitializeComponent();
 
             //MainPage = new MainPage();
-            //MainPage = new StackLayoutDemo();
+            MainPage = new StackLayoutDemo();
             //MainPage = new StackLayoutCode();
             //MainPage = new AbsoluteLayoutDemo();
-            MainPage = new AbsoluteLayoutCode();
+            //MainPage = new AbsoluteLayoutCode();
             //MainPage = new RelativeLayoutDemo();
             //MainPage = new RelativeLayoutCode();
             //MainPage = new GridDemo();
+            //MainPage = new GridCode();
             //MainPage = new ScrollViewDemo();
             //MainPage = new ScrollViewCode();
         }
